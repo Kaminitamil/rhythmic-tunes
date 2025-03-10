@@ -1,8 +1,25 @@
-# React + Vite
+ Rhythmic Tunes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🆔 Team Details  
+- *Team ID:* SWTID1741423241154402
+- *Team Leader:* Kamini K 
+- *Team Members:*  
+  - Kaviya K
+  - Nivetha M
+  - Thenmozhi R
+  - Arun Kumar M
 
-Currently, two official plugins are available:
+## 📌 Project Description  
+ Rhythmic tunes is music based project designed to explore the intersection of rhythm,melody and harmony compositions.
+ The project aims to delve into various genres,blending traditional and modern techniques.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Technologies Used  
+- *Frontend:* React.js  
+- *Backend:* Node.js / Express.js  
+- *Database:* MongoDB / Firebase  
+
+
+## 🚀 How to Run  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Kaminitamil/rhythmic-tunes/edit/main/code-20250310T063823Z-001/code/README.md
